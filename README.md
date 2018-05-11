@@ -8,8 +8,4 @@
 | 18th April, 2018 |	Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties	| Simon Blackburn |	[slides](https://drive.google.com/file/d/1bEAx9b9geprqo44jhpUHd7F94BrpCqIa/view?usp=sharing) |
 | 25th April, 2018 | Junction Tree Variational Autoencoder for Molecular Graph Generation |  Yu-Hsiang Huang | [slides](https://drive.google.com/file/d/1Lk2sRo9T2z0sbY60QXR1Pz_3ozn9mfIr/view) |
 | 2nd May, 2018 |	Happy ICLR!	|  |	 |
-
-| 9th May, 2018 |	Happy ICLR!	| GraphRNN: A Deep Generative Model for Graphs |Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1KV1LpLRVN7xLim_ccZlrxlQWKxcL4k0yldFU1ZgNdGs/edit#slide=id.g36248c8b2c_0_644)
-
-
-
+| 9th May, 2018 |	GraphRNN: A Deep Generative Model for Graphs |Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1KV1LpLRVN7xLim_ccZlrxlQWKxcL4k0yldFU1ZgNdGs/edit#slide=id.g36248c8b2c_0_644)
