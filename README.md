@@ -4,8 +4,11 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 11th April, 2018 | Graph Representation and Molecular Property Prediction using Message Passing Neural Networks |  Jian Tang, Karam Thomas, Shagun Sodhani| [slides](https://github.com/shagunsodhani/Graph-Reading-Group/blob/master/slides/RepresentationLearning-NeuralMessagePassing.pdf) |
-| 18th April, 2018 |	Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties	| Simon Blackburn |	[slides](https://drive.google.com/file/d/1bEAx9b9geprqo44jhpUHd7F94BrpCqIa/view?usp=sharing) |
-| 25th April, 2018 | Junction Tree Variational Autoencoder for Molecular Graph Generation |  Yu-Hsiang Huang | [slides](https://drive.google.com/file/d/1Lk2sRo9T2z0sbY60QXR1Pz_3ozn9mfIr/view) |
-| 2nd May, 2018 |	Happy ICLR!	|  |	 |
+| 30th May, 2018 |	Towards Gene Expression Convolutions using Gene Interaction Graphs  |Joseph Cohen | 
+| 23rd May, 2018 |	Automatically Extracting Action Graphs from Materials Science Synthesis Procedures  |Francis and Karam | [Slides](https://drive.google.com/file/d/16eKWAARX0L1DUjfCT8HW8M7f7KQxxXzl/view?usp=sharing)
+| 16th May, 2018 |	NIPS!	|  |	 |
 | 9th May, 2018 |	GraphRNN: A Deep Generative Model for Graphs |Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1KV1LpLRVN7xLim_ccZlrxlQWKxcL4k0yldFU1ZgNdGs/edit#slide=id.g36248c8b2c_0_644)
+| 2nd May, 2018 |	Happy ICLR!	|  |	 |
+| 25th April, 2018 | Junction Tree Variational Autoencoder for Molecular Graph Generation |  Yu-Hsiang Huang | [slides](https://drive.google.com/file/d/1Lk2sRo9T2z0sbY60QXR1Pz_3ozn9mfIr/view) |
+| 18th April, 2018 |	Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties	| Simon Blackburn |	[slides](https://drive.google.com/file/d/1bEAx9b9geprqo44jhpUHd7F94BrpCqIa/view?usp=sharing) |
+| 11th April, 2018 | Graph Representation and Molecular Property Prediction using Message Passing Neural Networks |  Jian Tang, Karam Thomas, Shagun Sodhani| [slides](https://github.com/shagunsodhani/Graph-Reading-Group/blob/master/slides/RepresentationLearning-NeuralMessagePassing.pdf) |
