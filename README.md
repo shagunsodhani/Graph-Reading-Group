@@ -4,6 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 6th June, 2018 |	GraphVAE: Towards Generation of Small Graphs Using Variational
+Autoencoders  | Alejandro Posada | 
 | 30th May, 2018 |	Towards Gene Expression Convolutions using Gene Interaction Graphs  |Joseph Cohen | 
 | 23rd May, 2018 |	Automatically Extracting Action Graphs from Materials Science Synthesis Procedures  |Francis and Karam | [Slides](https://drive.google.com/file/d/16eKWAARX0L1DUjfCT8HW8M7f7KQxxXzl/view?usp=sharing)
 | 16th May, 2018 |	NIPS!	|  |	 |
