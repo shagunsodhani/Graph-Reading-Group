@@ -4,7 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 6th June, 2018 |	GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders  | Alejandro Posada | 
+| 13th June, 2018 |		Stochastic Training of Graph Convolutional Networks with Variance Reduction  | Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit#slide=id.g36248c8b2c_0_644)
+| 6th June, 2018 |	GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders  | Alejandro Posada | [Slides](https://drive.google.com/file/d/1BcfMvZ0Uyku4v4Q3CyWT8Ng47U8B4mhC/view)
 | 30th May, 2018 |	Towards Gene Expression Convolutions using Gene Interaction Graphs  |Joseph Cohen | 
 | 23rd May, 2018 |	Automatically Extracting Action Graphs from Materials Science Synthesis Procedures  |Francis and Karam | [Slides](https://drive.google.com/file/d/16eKWAARX0L1DUjfCT8HW8M7f7KQxxXzl/view?usp=sharing)
 | 16th May, 2018 |	NIPS!	|  |	 |
