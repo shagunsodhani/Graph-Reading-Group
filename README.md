@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 27th June, 2018 |		Adversarial Attack on Graph Structured Data | Cheng Yang | [Slides](https://drive.google.com/file/d/1jDQhZlBov2qaCKz-MSx1orDk23Uw1YXz/view)
 | 20th June, 2018 |		Representation Learning on Graphs with Jumping Knowledge Networks  | Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit?usp=sharing)
 | 13th June, 2018 |		Stochastic Training of Graph Convolutional Networks with Variance Reduction  | Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit#slide=id.g36248c8b2c_0_644)
 | 6th June, 2018 |	GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders  | Alejandro Posada | [Slides](https://drive.google.com/file/d/1BcfMvZ0Uyku4v4Q3CyWT8Ng47U8B4mhC/view)
