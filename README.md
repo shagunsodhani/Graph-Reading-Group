@@ -4,7 +4,9 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 3rd July, 2018 |		Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation | Andreea Deac | [Slides](https://docs.google.com/presentation/d/18_LtkQpVJJ4asij72mD_rM-piMy00tDVgS1T5it8VlE/edit#slide=id.p) 
+| 18th July, 2018 |		Neural Relational Inference for Interacting Systems | Petar Velickovic | [Slides](https://drive.google.com/open?id=1uv5fTWqFmTa50RG-Abt3GbvRDumudS3o) 
+| 11th July, 2018 |		Hierarchical Graph Representation Learning with Differentiable Pooling | Simon Blackburn | [Slides](https://drive.google.com/file/d/1ac3TfL-b2yD_2v5EzCZiq8dE-VQq9D23/view?usp=sharing) 
+| 4th July, 2018 |		Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation | Andreea Deac | [Slides](https://docs.google.com/presentation/d/18_LtkQpVJJ4asij72mD_rM-piMy00tDVgS1T5it8VlE/edit#slide=id.p) 
 | 27th June, 2018 |		Adversarial Attack on Graph Structured Data | Cheng Yang | [Slides](https://drive.google.com/file/d/1jDQhZlBov2qaCKz-MSx1orDk23Uw1YXz/view)
 | 20th June, 2018 |		Representation Learning on Graphs with Jumping Knowledge Networks  | Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit?usp=sharing)
 | 13th June, 2018 |		Stochastic Training of Graph Convolutional Networks with Variance Reduction  | Shagun Sodhani | [Slides](https://docs.google.com/presentation/d/1VqmZEGFLWvyt2UazWje5UmgIM5geU3O1r0DkWlgNVVM/edit#slide=id.g36248c8b2c_0_644)
