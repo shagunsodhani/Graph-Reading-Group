@@ -1,10 +1,10 @@
-# Weekly reading group on Graphs at MILA
+# Weekly Reading Group on Graphs at [Mila](https://mila.quebec/en/)
 
 ## 2018
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 8th August, 2018 |		A Graph-to-Sequence Model for AMR-to-Text Generation | Koustuv Sinha | [Slides](https://docs.google.com/presentation/d/1lOgUf7ZifUB4Y-4Le7Aeog0ryDYqfk6vUxk7C81mC4A/edit#slide=id.p1) 
+| 8th August, 2018 |		A Graph-to-Sequence Model for AMR-to-Text Generation | Koustuv Sinha | [Slides](https://drive.google.com/file/d/10Q4FwlMAUUU-_SfiyrqE1z9DUfrHllxs/view?usp=sharing) 
 | 1st August, 2018 |		NetGAN: Generating Graphs via Random Walk | Cheng Yang | [Slides](https://drive.google.com/file/d/1NAe_DK_zfEBIu19mLgVOlaDwmhQ8RrGK/view?usp=sharing) 
 | 25th July, 2018 |		Neural Relational Inference for Interacting Systems | Petar Velickovic | [Slides](https://drive.google.com/open?id=1uv5fTWqFmTa50RG-Abt3GbvRDumudS3o) 
 | 18th July, 2018 |		Hierarchical Graph Representation Learning with Differentiable Pooling | Simon Blackburn | [Slides](https://drive.google.com/file/d/1ac3TfL-b2yD_2v5EzCZiq8dE-VQq9D23/view?usp=sharing) 
