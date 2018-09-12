@@ -4,6 +4,9 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 29th August, 2018 |		Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning  | Zhiqing Sun | [Slides](https://drive.google.com/file/d/1x_cv5kVR_zyZNNseKk9M2cHcEPpnOLzn/view?usp=sharing) 
+| 22nd August, 2018 |		A simple neural network module for relational reasoning, Relational recurrent neural networks, Relational deep reinforcement learning | Petar Veličković | [Slides](https://drive.google.com/file/d/1kGELCqeZKD_pM_sYHN3r0di7lWtYQswB/view?usp=sharing) 
+| 15th August, 2018 |		[NerveNet: Learning Structured Policy with Graph Neural Networks](https://openreview.net/forum?id=S1sqHMZCb) | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1wJ9kOG5Z94-heF2PPADcjvZHMyDjnEJe/view?usp=sharing) 
 | 8th August, 2018 |		A Graph-to-Sequence Model for AMR-to-Text Generation | Koustuv Sinha | [Slides](https://drive.google.com/file/d/10Q4FwlMAUUU-_SfiyrqE1z9DUfrHllxs/view?usp=sharing) 
 | 1st August, 2018 |		NetGAN: Generating Graphs via Random Walk | Cheng Yang | [Slides](https://drive.google.com/file/d/1NAe_DK_zfEBIu19mLgVOlaDwmhQ8RrGK/view?usp=sharing) 
 | 25th July, 2018 |		Neural Relational Inference for Interacting Systems | Petar Velickovic | [Slides](https://drive.google.com/open?id=1uv5fTWqFmTa50RG-Abt3GbvRDumudS3o) 
