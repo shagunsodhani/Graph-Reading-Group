@@ -5,10 +5,10 @@
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 
-| 4th October, 2018 |	[Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl)  | Daniel D. Johnson | [Slides](https://drive.google.com/file/d/1h4eoSOn9bxdmrW8gYiAEI9SFqlMUQ4db/view?usp=sharing) 
+
 | 4th October, 2018 |	Hyperbolic Graph Embeddings  | William L. Hamilton | [Slides](https://drive.google.com/file/d/1rKkghMed5NNp0bMWUbgkopjP75SLTzyZ/view?usp=sharing) 
 | 27th September, 2018 |	ICLR  |  |  
-| 20th September, 2018 |	Graph Convolutional Neural Networks for Web-Scale Recommender Systems  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1LAqht_2A6YYHMW1ooGN0qq_YXfClChYT/view?usp=sharing) 
+| 20th September, 2018 |	Graph Convolutional Neural Networks for Web-Scale Recommender Systems  | Cătălina Cangea | [Slides](https://drive.google.com/fileåç/d/1LAqht_2A6YYHMW1ooGN0qq_YXfClChYT/view?usp=sharing) 
 | 13th September, 2018 |	Latent Molecular Optimization for Targeted Therapeutic Design  | Andreea Deac | [Slides](https://drive.google.com/file/d/1M7k3PpNOeG_it_ebIwI66Vh8d3qMqt8D/view?usp=sharing) 
 | 29th August, 2018 |		Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning  | Zhiqing Sun | [Slides](https://drive.google.com/file/d/1x_cv5kVR_zyZNNseKk9M2cHcEPpnOLzn/view?usp=sharing) 
 | 22nd August, 2018 |		A simple neural network module for relational reasoning, Relational recurrent neural networks, Relational deep reinforcement learning | Petar Veličković | [Slides](https://drive.google.com/file/d/1kGELCqeZKD_pM_sYHN3r0di7lWtYQswB/view?usp=sharing) 
