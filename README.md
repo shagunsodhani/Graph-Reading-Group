@@ -4,11 +4,10 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-
-
+| 11th October, 2018 |	[Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl)  | Daniel D. Johnson | [Slides](https://drive.google.com/file/d/1h4eoSOn9bxdmrW8gYiAEI9SFqlMUQ4db/view?usp=sharing)
 | 4th October, 2018 |	Hyperbolic Graph Embeddings  | William L. Hamilton | [Slides](https://drive.google.com/file/d/1rKkghMed5NNp0bMWUbgkopjP75SLTzyZ/view?usp=sharing) 
 | 27th September, 2018 |	ICLR  |  |  
-| 20th September, 2018 |	Graph Convolutional Neural Networks for Web-Scale Recommender Systems  | Cătălina Cangea | [Slides](https://drive.google.com/fileåç/d/1LAqht_2A6YYHMW1ooGN0qq_YXfClChYT/view?usp=sharing) 
+| 20th September, 2018 |	Graph Convolutional Neural Networks for Web-Scale Recommender Systems  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1LAqht_2A6YYHMW1ooGN0qq_YXfClChYT/view?usp=sharing) 
 | 13th September, 2018 |	Latent Molecular Optimization for Targeted Therapeutic Design  | Andreea Deac | [Slides](https://drive.google.com/file/d/1M7k3PpNOeG_it_ebIwI66Vh8d3qMqt8D/view?usp=sharing) 
 | 29th August, 2018 |		Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning  | Zhiqing Sun | [Slides](https://drive.google.com/file/d/1x_cv5kVR_zyZNNseKk9M2cHcEPpnOLzn/view?usp=sharing) 
 | 22nd August, 2018 |		A simple neural network module for relational reasoning, Relational recurrent neural networks, Relational deep reinforcement learning | Petar Veličković | [Slides](https://drive.google.com/file/d/1kGELCqeZKD_pM_sYHN3r0di7lWtYQswB/view?usp=sharing) 
@@ -31,4 +30,3 @@
 | 25th April, 2018 | Junction Tree Variational Autoencoder for Molecular Graph Generation |  Yu-Hsiang Huang | [slides](https://drive.google.com/file/d/1Lk2sRo9T2z0sbY60QXR1Pz_3ozn9mfIr/view) |
 | 18th April, 2018 |	Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties	| Simon Blackburn |	[slides](https://drive.google.com/file/d/1bEAx9b9geprqo44jhpUHd7F94BrpCqIa/view?usp=sharing) |
 | 11th April, 2018 | Graph Representation and Molecular Property Prediction using Message Passing Neural Networks |  Jian Tang, Karam Thomas, Shagun Sodhani| [slides](https://github.com/shagunsodhani/Graph-Reading-Group/blob/master/slides/RepresentationLearning-NeuralMessagePassing.pdf) |
-
