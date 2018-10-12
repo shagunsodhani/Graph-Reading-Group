@@ -4,6 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+
+| 4th October, 2018 |	[Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl)  | Daniel D. Johnson | [Slides](https://drive.google.com/file/d/1h4eoSOn9bxdmrW8gYiAEI9SFqlMUQ4db/view?usp=sharing) 
 | 4th October, 2018 |	Hyperbolic Graph Embeddings  | William L. Hamilton | [Slides](https://drive.google.com/file/d/1rKkghMed5NNp0bMWUbgkopjP75SLTzyZ/view?usp=sharing) 
 | 27th September, 2018 |	ICLR  |  |  
 | 20th September, 2018 |	Graph Convolutional Neural Networks for Web-Scale Recommender Systems  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1LAqht_2A6YYHMW1ooGN0qq_YXfClChYT/view?usp=sharing) 
