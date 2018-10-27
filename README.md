@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 18th October, 2018 |	GraphDial  | Prasanna Parthasarathi | WIP
 | 11th October, 2018 |	[Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl)  | Daniel D. Johnson | [Slides](https://drive.google.com/file/d/1h4eoSOn9bxdmrW8gYiAEI9SFqlMUQ4db/view?usp=sharing)
 | 4th October, 2018 |	Hyperbolic Graph Embeddings  | William L. Hamilton | [Slides](https://drive.google.com/file/d/1rKkghMed5NNp0bMWUbgkopjP75SLTzyZ/view?usp=sharing) 
 | 27th September, 2018 |	ICLR  |  |  
