@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 25th October, 2018 |	[Diffusion-Based Approximate Value Functions](https://openreview.net/pdf?id=BkgkoToZZ7)  | Martin Klissarov | [Slides](https://drive.google.com/file/d/1e1q_xyvfiPqjwDQ5Ak0IcHCCiHNJcqvC/view?usp=sharing)
 | 18th October, 2018 |	GraphDial  | Prasanna Parthasarathi | WIP
 | 11th October, 2018 |	[Learning Graphical State Transitions](https://openreview.net/pdf?id=HJ0NvFzxl)  | Daniel D. Johnson | [Slides](https://drive.google.com/file/d/1h4eoSOn9bxdmrW8gYiAEI9SFqlMUQ4db/view?usp=sharing)
 | 4th October, 2018 |	Hyperbolic Graph Embeddings  | William L. Hamilton | [Slides](https://drive.google.com/file/d/1rKkghMed5NNp0bMWUbgkopjP75SLTzyZ/view?usp=sharing) 
