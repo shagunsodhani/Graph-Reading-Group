@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 15th November, 2018 |	[Towards Sparse Hierarchical Graph Classifiers](https://arxiv.org/abs/1811.01287)  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1X707h9ATeivmNUWbGPrSMCV1U3DyxXzj/view?usp=sharing)
 | 8th November, 2018 |	Cancelled  |  |  
 | 1st November, 2018 |	[Multi-hop Reasoning with Graph Convolutional Networks](https://drive.google.com/file/d/1WbUCWSuCdI6cB13SuCj-kR9mNzCp0gCt/view?usp=sharing)  | Carlos Eduardo Lassance | [Slides](https://drive.google.com/file/d/1e1q_xyvfiPqjwDQ5Ak0IcHCCiHNJcqvC/view?usp=sharing)
 | 25th October, 2018 |	[Diffusion-Based Approximate Value Functions](https://openreview.net/pdf?id=BkgkoToZZ7)  | Martin Klissarov | [Slides](https://drive.google.com/file/d/1e1q_xyvfiPqjwDQ5Ak0IcHCCiHNJcqvC/view?usp=sharing)
