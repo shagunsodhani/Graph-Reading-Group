@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 15th January, 2019 |	[Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://ai.google/research/pubs/pub45634)  | Disha Shrivastava| [Slides](https://drive.google.com/file/d/1tLcA0Z-NX_TcRx4bWhcpFH1bElePkoAs/view?usp=sharing)
 | 22nd November, 2018 |	End of Semester  | 
 | 15th November, 2018 |	[Towards Sparse Hierarchical Graph Classifiers](https://arxiv.org/abs/1811.01287)  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1X707h9ATeivmNUWbGPrSMCV1U3DyxXzj/view?usp=sharing)
 | 8th November, 2018 |	Cancelled  |  |  
