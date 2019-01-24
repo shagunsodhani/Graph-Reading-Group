@@ -1,4 +1,4 @@
-# Weekly Reading Group on Graphs at [Mila](https://mila.quebec/en/)
+# Weekly Reading Group on Graphs at [Mila](https://mila.quebec/en/) 
 
 **Organizer**: [Shagun Sodhani](mailto:sshagunsodhani@gmail.com)
 
