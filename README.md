@@ -6,6 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 29th January, 2019 |	Compositional Fairness Constraints for Graph Embeddings | Joey Bose | [Slides](https://drive.google.com/file/d/1RUz2u0k55XLRX5uKxHtDJyIBij_Nz6n1/view?usp=sharing)
 | 22nd January, 2019 |	Happy ICML  |  | 
 | 15th January, 2019 |	[Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://ai.google/research/pubs/pub45634)  | Disha Shrivastava| [Slides](https://drive.google.com/file/d/1tLcA0Z-NX_TcRx4bWhcpFH1bElePkoAs/view?usp=sharing)
 | 22nd November, 2018 |	End of Semester  | 
