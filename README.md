@@ -6,6 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 19th February, 2019 | GraphVite | Zhaocheng Zhu | [Slides](https://drive.google.com/file/d/1V6ToBS3msekc-_XkzJtOwUkpOsYX7WrE/view?usp=sharing)
 | 5th February, 2019 |	A review of semi-supervised learning on graphs using graph convolutional networks | Carlos Eduardo Lassance | [Slides](https://drive.google.com/file/d/1Kuiuesn-O0X9pi4YMTLOj37gzJHCxBTf/view?usp=sharing)
 | 29th January, 2019 |	Compositional Fairness Constraints for Graph Embeddings | Joey Bose | [Slides](https://drive.google.com/file/d/1RUz2u0k55XLRX5uKxHtDJyIBij_Nz6n1/view?usp=sharing)
 | 22nd January, 2019 |	Happy ICML  |  | 
