@@ -7,7 +7,7 @@
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 | 2nd March, 2019 | Spring Break | | 
-| 26th February, 2019 | RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space | JianTang | [Slides](https://drive.google.com/file/d/1YcVFxG-wybTn6h0l5-xZ0_rxPS-Ctf6X/view?usp=sharing)
+| 26th February, 2019 | RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space | Jian Tang | [Slides](https://drive.google.com/file/d/1YcVFxG-wybTn6h0l5-xZ0_rxPS-Ctf6X/view?usp=sharing)
 | 19th February, 2019 | GraphVite | Zhaocheng Zhu | [Slides](https://drive.google.com/file/d/1V6ToBS3msekc-_XkzJtOwUkpOsYX7WrE/view?usp=sharing)
 | 12th February, 2019 |	Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty | Simon Blackburn | [Slides](https://drive.google.com/file/d/1-HgN1cogcImghtNBouSW9Mw2LiSQa_mF/view?usp=sharing)
 | 5th February, 2019 |	A review of semi-supervised learning on graphs using graph convolutional networks | Carlos Eduardo Lassance | [Slides](https://drive.google.com/file/d/1Kuiuesn-O0X9pi4YMTLOj37gzJHCxBTf/view?usp=sharing)
