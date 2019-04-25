@@ -8,7 +8,6 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 | 16th April, 2019 | Continuous-Time Dynamic Network Embeddings | Weiping Song | [Slides](https://drive.google.com/file/d/1bDfMsxLYZVnI_oy4tbZrnAzoWUU4SSu-/view?usp=sharing)
 | 2nd April, 2019 | Drug Discovery and GNNs | Sun Fanyun | [Slides](https://drive.google.com/file/d/10aycSVdr_CEFUrNuD33uzQfVc_uWSMnS/view?usp=sharing)
-| 26th March, 2019 | GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks | Shagun Sodhani | [Slides](https://drive.google.com/file/d/1SCgEmYZn3jggd5HP54DUM7lFGDJjJloH/view?usp=sharing)
 | 19th March, 2019 | GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks | Shagun Sodhani | [Slides](https://drive.google.com/file/d/1SCgEmYZn3jggd5HP54DUM7lFGDJjJloH/view?usp=sharing)
 | 12th March, 2019 | Combining Graph Neural Networks with Statistical Relational Learning | Meng Qu | [Slides](https://drive.google.com/file/d/1BllYW5otmHgQo5_8VR7eN0J3TgzhPnmo/view?usp=sharing)
 | 5th March, 2019 | Spring Break | | 
