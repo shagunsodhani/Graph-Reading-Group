@@ -6,6 +6,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 23rd April, 2019 | End of term |  | 
 | 16th April, 2019 | Continuous-Time Dynamic Network Embeddings | Weiping Song | [Slides](https://drive.google.com/file/d/1bDfMsxLYZVnI_oy4tbZrnAzoWUU4SSu-/view?usp=sharing)
 | 9th April, 2019 | Improved Knowledge Graph Embedding using Background Taxonomic Information | Bahare Fatemi | [Slides](https://drive.google.com/file/d/1wBBQjBqiuz2iD6SKrVWBS6cTop1Rk1d4/view?usp=sharing)
 | 2nd April, 2019 | Drug Discovery and GNNs | Sun Fanyun | [Slides](https://drive.google.com/file/d/10aycSVdr_CEFUrNuD33uzQfVc_uWSMnS/view?usp=sharing)
